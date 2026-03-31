@@ -1,0 +1,4 @@
+# Osuna Osuna Carlos Eduardo
+# 03/02/2026
+# aprender los comandos basicos de git
+# es una solicitud para integrar cambios de código de una rama de desarrollo a otra en un repositorio de control de versiones como Git
